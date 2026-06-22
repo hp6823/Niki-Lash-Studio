@@ -1,4 +1,4 @@
-# Niki Lash Studio — Editorial Redesign
+# Niki Lash Studio
 
 A redesign of a Chicago lash &amp; henna studio's website, rebuilt around the
 studio's real brand identity with a working appointment-booking flow.
