@@ -39,16 +39,6 @@ niki-lash-studio/
 └── README.md
 ```
 
-## Notes before going live
-
-- **Photography:** the gallery panels and hero are built to feature real studio
-  photos — drop them in where the placeholders are.
-- **Team &amp; pricing:** stylist names (Niki, Sara) and a few service prices are
-  placeholders to make the flow complete. Swap in the real team and numbers in
-  `js/booking.js`.
-- **Booking backend:** the flow is front-end only. Wire the confirm step to a
-  real scheduling service or form handler before launch.
-
 ## Running
 
 It's static — open `index.html` in any browser, or serve the folder:
